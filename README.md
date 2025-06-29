@@ -1,4 +1,4 @@
-# Oi, eu sou o João Ricardo e eu vou ser um grande desenvolvedor Front-End!🧑‍💻
+# Oi, eu sou o João Ricardo e eu vou ser um grande desenvolvedor Full-stack!🧑‍💻
 
 ### Sempre aprendendo coisas novas!
 <div>
