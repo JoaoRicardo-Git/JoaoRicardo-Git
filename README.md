@@ -1,8 +1,8 @@
-# Oi, eu sou o João Ricardo e eu vou ser um grande desenvolvedor Full-stack!🧑‍💻
+# Oi, eu sou o João Ricardo e eu vou ser um grande desenvolvedor I.A!🧑‍💻
 
 ### Sempre aprendendo coisas novas!
 <div>
-  <h2>🎓 Formação Acadêmica 🎓</h2>
+  <h2>🎓 Cursos 🎓</h2>
  💡  Desenvolvimento Front-End - SENAI de Informática <br>
  🚀  Lógica de Programação – Competência Transversal - SENAI de Informática <br>
  🖥️  Introdução à Inteligência Artificial e Computação em Nuvem - SENAI de Informática <br>
